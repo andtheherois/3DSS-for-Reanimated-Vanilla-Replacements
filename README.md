@@ -7,8 +7,8 @@ The following Mods are required:
 
 Desert Eagle Reanimated: https://www.moddb.com/mods/stalker-anomaly/addons/desert-eagle-re-animated
 
-LR300 Reanimate: https://www.moddb.com/mods/stalker-anomaly/addons/radons-reanimated-lr300
+LR300 Reanimated: https://www.moddb.com/mods/stalker-anomaly/addons/radons-reanimated-lr300
 
-RPG7 Reanimate: https://www.moddb.com/mods/stalker-anomaly/addons/rpg-7-reanimated
+RPG7 Reanimated: https://www.moddb.com/mods/stalker-anomaly/addons/rpg-7-reanimated
 
 As well as all the mod in this folder: https://drive.google.com/drive/folders/1hem84ippjGQ3S0kKc8fgpyVBZG4xCwXR?usp=drive_link
